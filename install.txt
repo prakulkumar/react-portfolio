@@ -1,0 +1,13 @@
+Install in backend
+
+npm install -g @sanity/cli
+sanity init --coupon javascriptmastery2022
+
+
+
+
+Install in frontend
+
+npm i @sanity/client @sanity/image-url framer-motion node-sass react-icons
+
+framer-motion for animation
